@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216073952688",
+    "project_id": "negocioscandeleda",
+    "storage_bucket": "negocioscandeleda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216073952688:android:83ff6324c0d73a67ce8a75",
+        "android_client_info": {
+          "package_name": "es.candeleda.negocios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwuNgYejTtUBoDW3j5GkEK2A2UBWMQa1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
